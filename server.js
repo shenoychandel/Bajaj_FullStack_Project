@@ -10,10 +10,10 @@ app.use(express.json());
 
 // Personal details - Replace with your actual details
 const USER_DETAILS = {
-    full_name: "john_doe", // Replace with your name in lowercase
-    birth_date: "17091999", // Replace with your birth date in ddmmyyyy format
-    email: "john@xyz.com", // Replace with your email
-    roll_number: "ABCD123" // Replace with your college roll number
+    full_name: "shenoy_chandel", 
+    birth_date: "30102003", 
+    email: "shenoysingh109@gmail.com", 
+    roll_number: "22BIT0299" 
 };
 
 // Helper function to check if a character is alphabetic
